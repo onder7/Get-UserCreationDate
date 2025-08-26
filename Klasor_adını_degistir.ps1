@@ -3,15 +3,15 @@
 # "S_GOP_CL8 Ground Handling Supplier Audit Checklist for Ramp Handling" klasörünü yeniden adlandırır
 
 # Ana dizini belirleyin (klasörün bulunduğu üst dizin)
-$parentPath = "D:\Doc\CA_WORK\CA_QUALITY\ca-Audit\Audits & Inspections\Checklists\Archive\Checklists\Supplier Audit Checklists\"
+$parentPath = "D:\fname\"
 
 
 
 # Eski klasör adı
-$oldFolderName = "S_GOP_CL10 Ground Handling Audit Checklist For Passenger Handling Service"
+$oldFolderName = "fname"
 
 # Yeni klasör adı - istediğiniz gibi değiştirebilirsiniz
-$newFolderName = "S_GOP_CL8_Ground_Handling_Supplier_Audit_Checklist"
+$newFolderName = "fname"
 
 # Klasörün tam yolları
 $oldFolderPath = Join-Path $parentPath $oldFolderName
